@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText edt_numNiños;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

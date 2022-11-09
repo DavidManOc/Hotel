@@ -19,6 +19,7 @@ public class MainActivity2 extends AppCompatActivity {
     String tipo_temporada = "";//para saber la temporada que ha cogido
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
